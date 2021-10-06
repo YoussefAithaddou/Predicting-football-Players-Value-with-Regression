@@ -18,7 +18,8 @@
 * Encoded players positions (categorical data) into numerical data.
 * Dropped specific category (goalkeepers) because they have a complete differnt role in the pitch.
 # Data visualization
-* Computed the correlation of columns and visualized it with a heatmap:
+* Computed the correlation of columns and visualized it with a heatmap, which showed that goals and assists as well as the time spent on field have the highest correlation with the player's market value.
+![image 1](https://github.com/YoussefAithaddou/Predicting-football-Players-Value-with-Regression/blob/main/Heatmap.png)
 * 
 * The data extraction process gives the following results:
   1. Reviews: written critic of users.
