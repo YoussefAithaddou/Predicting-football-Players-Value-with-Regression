@@ -27,7 +27,7 @@
   2. Stars: from 1 to 5 where 5 is the maximum possible value.
 
 # Linear Regression Model
-* Results:
+1. Results: /n
   Using the Linear Regressiom model, I had the following results:
   ![image](https://github.com/YoussefAithaddou/Predicting-football-Players-Value-with-Regression/blob/main/regression_results.PNG).
 
