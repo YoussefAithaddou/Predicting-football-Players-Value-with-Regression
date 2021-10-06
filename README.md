@@ -22,9 +22,7 @@
 
 ![image 1](https://github.com/YoussefAithaddou/Predicting-football-Players-Value-with-Regression/blob/main/Heatmap.png)
 ![image 2](https://github.com/YoussefAithaddou/Predicting-football-Players-Value-with-Regression/blob/main/Goal-Assist-Time-Value.png)
-* The data extraction process gives the following results:
-  1. Reviews: written critic of users.
-  2. Stars: from 1 to 5 where 5 is the maximum possible value.
+
 
 # Linear Regression Model
 **1. Results:**  
