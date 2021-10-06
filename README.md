@@ -35,5 +35,5 @@
   
 **2. Discussion:**  
 The model coefficient are excepcted due to the fact that goal scorers and playmaker are sought after by small and big teams, and yong and prospective players are highly valuable due to the expectations they hold. However, R^2 score and Mean Squarred error do not reflect a prefect predcition of players' market value. 
-This model can be improved to produce better results by taking into consideration more variables that affects the valuation of footballers such as the nationality, league, injuries, presence in marketing and social media (number of followers, interviews and shirts sold) and the most importantly the previous market value of the players and their current contract.
+This model can be improved to produce better results by taking into consideration more variables that affects the valuation of footballers such as the nationality, league, injuries, presence in marketing and social media (number of followers, interviews and shirts sold) and most importantly the previous market value of the players and their current contract.
 
