@@ -18,14 +18,14 @@
 * Encoded players positions (categorical data) into numerical data.
 * Dropped specific category (goalkeepers) because they have a complete differnt role in the pitch.
 # Data visualization
-* Computed the correlation of columns and visualized it with a heatmap, which showed that goals and assists as well as the time spent on field have the highest correlation with the player's market value.
+* Computed the correlation of columns and visualized it with a heatmap, which showed that goals and assists as well as the time spent on field have the highest correlation with the player's market value. Also, I plotted regression plots of goals and assits made by players besides the histogram of time played by footballers as well as a box plot of the the different market values.
+
 ![image 1](https://github.com/YoussefAithaddou/Predicting-football-Players-Value-with-Regression/blob/main/Heatmap.png)
-* 
+![image 2](https://github.com/YoussefAithaddou/Predicting-football-Players-Value-with-Regression/blob/main/Goal-Assist-Time-Value.png)
 * The data extraction process gives the following results:
   1. Reviews: written critic of users.
   2. Stars: from 1 to 5 where 5 is the maximum possible value.
-![image 1](https://github.com/YoussefAithaddou/Predicting-movie-ratings-based-on-reviews-using-Naive-Bayes/blob/main/Movie%20reviews.PNG)
-![image 2](https://github.com/YoussefAithaddou/Predicting-movie-ratings-based-on-reviews-using-Naive-Bayes/blob/main/Histogram.png)
+![image 3](https://github.com/YoussefAithaddou/Predicting-movie-ratings-based-on-reviews-using-Naive-Bayes/blob/main/Histogram.png)
 
 
 # Classification results
