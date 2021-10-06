@@ -25,12 +25,8 @@
 * The data extraction process gives the following results:
   1. Reviews: written critic of users.
   2. Stars: from 1 to 5 where 5 is the maximum possible value.
-![image 3](https://github.com/YoussefAithaddou/Predicting-movie-ratings-based-on-reviews-using-Naive-Bayes/blob/main/Histogram.png)
 
-
-# Classification results
-Using the Naive Bayes Classifier the following results:
-
-![Classification report](https://github.com/YoussefAithaddou/Predicting-movie-ratings-based-on-reviews-using-Naive-Bayes/blob/main/classification_report.PNG)
-![Heat map](https://github.com/YoussefAithaddou/Predicting-movie-ratings-based-on-reviews-using-Naive-Bayes/blob/main/Heatmap.png).
+# Linear Regression Model
+Using the Linear Regressiom model, I had the following results:
+![image](https://github.com/YoussefAithaddou/Predicting-football-Players-Value-with-Regression/blob/main/regression_results.PNG).
 
