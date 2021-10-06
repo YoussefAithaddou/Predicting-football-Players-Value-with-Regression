@@ -27,7 +27,7 @@
   2. Stars: from 1 to 5 where 5 is the maximum possible value.
 
 # Linear Regression Model
-**1. Results **:  
+**1. Results:**  
   Using the Linear Regressiom model, the features that have the strongest impact on the market are Age, Position, Goals and Assists. I had the following results:
   
   ![image3](https://github.com/YoussefAithaddou/Predicting-football-Players-Value-with-Regression/blob/main/regression_results.PNG).
